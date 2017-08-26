@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: fe0be6400ce2727428aea49cbb1f5926
+timeCreated: 1503785005
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: background_splash
+    21300002: background_all
+    21300004: background_muntain2
+    21300006: background_mountain1
+    21300008: background_sprite_4
+    21300010: background_sprite_5
+    21300012: background_sprite_6
+    21300014: background_sprite_7
+    21300016: background_sprite_8
+    21300018: background_sprite_9
+    21300020: background_sprite_10
+    21300022: background_sprite_11
+    21300024: background_sprite_12
+    21300026: background_sprite_13
+    21300028: background_sprite_14
+    21300030: background_sprite_15
+    21300032: background_sprite_16
+    21300034: background_sprite_17
+    21300036: background_sprite_18
+    21300038: background_sprite_19
+    21300040: background_sprite_20
+    21300042: background_sprite_21
+    21300044: background_sprite_22
+    21300046: background_sprite_23
+    21300048: background_sprite_24
+    21300050: background_sprite_25
+    21300052: background_sprite_26
+    21300054: background_floor
+    21300056: background_sky
+    21300058: background_trees
+    21300060: background_sprite_0
+    21300062: background_sprite_1
+    21300064: background_sprite_2
+    21300066: background_sprite_3
+    21300068: background_sprite_27
+    21300070: background_sprite_28
+    21300072: background_sprite_29
+    21300074: background_sprite_30
+    21300076: background_sprite_31
+    21300078: background_sprite_32
+    21300080: background_sprite_33
+    21300082: background_sprite_34
+    21300084: background_sprite_35
+    21300086: background_sprite_36
+    21300088: background_sprite_37
+    21300090: background_sprite_38
+    21300092: background_sprite_39
+    21300094: background_sprite_40
+    21300096: background_sprite_41
+    21300098: background_sprite_42
+    21300100: background_sprite_43
+    21300102: background_sprite_44
+    21300104: background_sprite_45
+    21300106: background_sprite_46
+    21300108: background_sprite_47
+    21300110: background_sprite_48
+    21300112: background_sprite_49
+    21300114: background_sprite_50
+    21300116: background_sprite_51
+    21300118: background_sprite_52
+    21300120: background_sprite_53
+    21300122: background_sprite_54
+    21300124: background_sprite_55
+    21300126: background_sprite_56
+    21300128: background_sprite_57
+    21300130: background_sprite_58
+    21300132: background_sprite_59
+    21300134: background_sprite_60
+    21300136: background_sprite_61
+    21300138: background_sprite_62
+    21300140: background_sprite_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 1122
+        height: 637
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1444
+        width: 318
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1444
+        width: 318
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1005
+        width: 490
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1607
+        width: 157
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1472
+        width: 173
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1430
+        width: 207
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1258
+        width: 1026
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1468
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1468
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1122
+        width: 637
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1171
+        width: 548
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 967
+        width: 238
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 1037
+        width: 482
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 487
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 929
+        width: 481
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 519
+        width: 462
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 976
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 0
+        width: 1017
+        height: 1123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 865
+        width: 481
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 488
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 713
+        width: 481
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 161
+        width: 452
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 521
+        width: 280
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 569
+        width: 840
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 487
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 487
+        width: 481
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 417
+        width: 532
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 487
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 263
+        width: 481
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 287
+        width: 284
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 301
+        width: 672
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 69
+        width: 205
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 125
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 161
+        width: 1049
+        height: 830
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\LevelManager.cs">
+    <Files>
+      <File FileName="Assets\Script\bomber_SP.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\bomber.cs" Line="135" Column="36" />
+      <File FileName="Assets\Script\CanonBaseSP.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\LevelManager.cs" Line="605" Column="20" />
+      <File FileName="Assets\Script\ArrowFlicker.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Personal\Angry-Clan\Angry_Clan_Android\Assets\Script\CanonBaseSP.cs" line="157" column="1" />
+      <Breakpoint file="D:\Personal\Angry-Clan\Angry_Clan_Android\Assets\Script\bomber_SP.cs" line="124" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
